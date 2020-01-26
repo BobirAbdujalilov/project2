@@ -17,3 +17,6 @@
   105  git branch
   106  history | tail
   107  history | tail >> README.md
+  
+ github exercise for .md files
+ 
